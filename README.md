@@ -8,6 +8,6 @@ Chloe and herself are making a database of things they dont know about. You'll b
 
 ### Things we don't know about
 
--The point of over analysing a text in english
+- The point of over analysing a text in english
 - Why teachers take 3 years to give results back for a test or assignment
 - Having questions on a test that we have never learnt about
