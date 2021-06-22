@@ -4,7 +4,7 @@ This is a project for our new database of idk yet. We'll share this evryone once
 
 ## About
 
-Chloe and herself are making a database of things they dont know about. You'll be able to add things as well.
+Chloe and herself are making a database of things she doesn't know about. You'll be able to add things as well.
 
 ### Things we don't know about
 
